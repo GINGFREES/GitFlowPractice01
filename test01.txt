@@ -13,4 +13,7 @@ step1 Use git flow feature - feature01
 step2 Use git flow feature - feature01
 step3 Use git flow feature - feature01
 step1 Use git flow feature - feature01
+step1 Use git flow release - release02
+step2 Use git flow release - release02
+step3 Use git flow release - release02
  
