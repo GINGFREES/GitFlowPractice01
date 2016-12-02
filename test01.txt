@@ -9,4 +9,5 @@ step3 Add message - feature01
 step1 Add message - feature02
 step2 Add message - feature02
 step3 Add message - feature02
+step1 Use git flow feature - feature01
  
